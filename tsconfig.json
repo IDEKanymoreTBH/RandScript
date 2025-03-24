@@ -9,6 +9,6 @@
     "outDir": "./dist", // Output directory
     "types": ["node"]
   },
-  "include": ["src/*", "src/frontend/ast.ts", "src/utils/transcriber.ts"],
+  "include": ["src/**/*.ts", "src/frontend/ast.ts", "src/utils/transcriber.ts"],
   "exclude": ["node_modules"]
 }
