@@ -1,4 +1,4 @@
-An esoteric programming language, in TypeScript for heaven's sake.
+The Absolute Worst Language You Could Ever Use
 
 *P.S. Install the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=face-hh.bussin) for syntax highlighting!*
 
@@ -360,10 +360,4 @@ yap("watcho name > ")(bruh(x) {
 ```
 
 # Credits
-- Huge thanks to [Tyler Laceby](https://github.com/tlaceby) for creating the [Guide to Interpreters](https://github.com/tlaceby/guide-to-interpreters-series)!
-- Thanks to [Linker](https://github.com/Linker-123?tab=repositories) for showing me his compiler
-- [macromates.com](https://macromates.com/manual/en/language_grammars) for documenting TextMate Language syntax
-- [DreamBerd](https://github.com/TodePond/DreamBerd) for the inspiration
-- [AST explorer](https://astexplorer.net/) for the helpful tool
-
-Created with pure fucking hate by Face ♥
+- Yeah Just Go To face-hh/bussin cause this is lowkey just a copy but with random syntax. My bad I'm just lazy.
