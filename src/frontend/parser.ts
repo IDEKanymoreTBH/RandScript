@@ -4,7 +4,6 @@ import { tokenize, Token, TokenType } from "./lexer";
 export default class Parser {
     private tokens: Token[] = [];
 
-    // fuck you it works
     private lineCounter: number = 1;
     private column: number = 0;
     private nonNLLine: number = 0;
