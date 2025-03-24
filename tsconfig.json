@@ -6,7 +6,8 @@
     "preserveConstEnums": true,
     "sourceMap": true,
     "declaration": true, // Generate .d.ts files
-    "outDir": "./dist" // Output directory
+    "outDir": "./dist", // Output directory
+    "types": ["node"]
   },
   "include": ["src/*", "src/frontend/ast.ts", "src/utils/transcriber.ts"],
   "exclude": ["node_modules"]
